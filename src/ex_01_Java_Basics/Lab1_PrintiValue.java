@@ -1,3 +1,5 @@
+package ex_01_Java_Basics;
+
 public class Lab1_PrintiValue {
         public static void main(String[] args) {
             //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text

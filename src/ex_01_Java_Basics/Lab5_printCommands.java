@@ -1,3 +1,5 @@
+package ex_01_Java_Basics;
+
 public class Lab5_printCommands {
     public static void main(String[] args) {
         // print using print

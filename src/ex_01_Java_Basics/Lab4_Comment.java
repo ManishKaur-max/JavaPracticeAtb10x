@@ -1,3 +1,5 @@
+package ex_01_Java_Basics;
+
 public class Lab4_Comment {
      public static void main(String[] args) {
             // This is a Comment for single line It will be ignored by JVM/ Compiler

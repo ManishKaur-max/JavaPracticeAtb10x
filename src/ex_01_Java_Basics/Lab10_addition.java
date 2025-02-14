@@ -1,3 +1,5 @@
+package ex_01_Java_Basics;
+
 import java.util.Scanner;
 
 public class Lab10_addition {

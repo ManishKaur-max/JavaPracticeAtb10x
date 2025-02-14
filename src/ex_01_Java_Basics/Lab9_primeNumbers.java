@@ -1,3 +1,5 @@
+package ex_01_Java_Basics;
+
 public class Lab9_primeNumbers {
     public static void main(String args[]){
         int i,m=0,flag=0;

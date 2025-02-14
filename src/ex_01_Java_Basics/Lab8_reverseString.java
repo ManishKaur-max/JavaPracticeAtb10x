@@ -1,3 +1,5 @@
+package ex_01_Java_Basics;
+
 public class Lab8_reverseString {
     // Java Program to Reverse a String
       public static void main(String[] args) {
